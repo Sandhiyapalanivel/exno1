@@ -1,4 +1,8 @@
+# Name:Sandhiya P
+# Reg No:212223230183
+
 # Exno:1
+
 ## Data Cleaning Process
 
 # AIM
